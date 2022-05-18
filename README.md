@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PauloafGomes
 - 👀 I’m interested in work and learn at the same time as a developer.
-- 🌱 I’m currently learning HTML5, CSS3 and JavaScript.
+- 🌱 I’m currently learning HTML5, CSS3, JavaScript and Python. 
 - 💞️ I’m looking to collaborate on diverse projects.
 - 📫 How to reach me, Pauloafg@outlook.com
 
